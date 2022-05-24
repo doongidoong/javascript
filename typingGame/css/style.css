@@ -1,0 +1,24 @@
+* {
+    margin: 1000;
+    padding: 100;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+}
+.header{
+    width: 100%;
+    background: #3b5999;
+    color: #fff;
+    text-align:  center; /* 가운데 정렬*/
+    padding: 1 rem; /* 16 픽셀*/
+}
+.word-display {
+    margin-top: 3rem;
+    font-size:  80px;
+    color: #3b5999;
+
+}
